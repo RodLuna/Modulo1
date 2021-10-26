@@ -1,3 +1,4 @@
+
 #!/bin/bash
 
 
@@ -23,3 +24,5 @@ A soma dos atrasos dessa cia.
 rm cias.csv
 rm cia_time.csv
 rm result.csv
+
+
